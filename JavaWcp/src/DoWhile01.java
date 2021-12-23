@@ -7,5 +7,4 @@ public class DoWhile01 {
 			System.out.println("DoWhile01 = " + number);
 		} while (number < 50);
 	}
-
 }
