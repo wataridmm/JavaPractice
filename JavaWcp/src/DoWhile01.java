@@ -5,6 +5,13 @@ public class DoWhile01 {
 			number *= 2;
 			System.out.println("DoWhile01 = " + number);
 		} while (number < 50);
+		
+		
+		
+		
+		
+		
 	}
+	
 	
 }
