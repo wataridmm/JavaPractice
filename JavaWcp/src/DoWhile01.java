@@ -7,10 +7,6 @@ public class DoWhile01 {
 		} while (number < 50);
 		
 		
-		
-		
-		
-		
 	}
 	
 	
