@@ -6,4 +6,9 @@ public class ClassMethod02 {
 
 	// test
 
+	
+	
+	
+	
+	
 }
