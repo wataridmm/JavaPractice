@@ -9,6 +9,9 @@ public class Human01 {
 
 	}
 
+	
+	
+	
 	public Human01(String name, int age) {
 		this.name = name;
 		this.age = age;
